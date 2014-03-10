@@ -56,3 +56,7 @@ A million students, a million satisfied customers, and ultimately, world dominat
  * Follow the Devblog on http://8bitmooc.org
  * Join the IRC Channel: #8bitmooc on Freenode
  * Sign up here: http://8bitmooc.org/sign-up
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jessebikman/8bitmooc/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
